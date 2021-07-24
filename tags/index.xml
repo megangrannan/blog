@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Megan Grannan</title>
-    <link>https://github.com/megangrannan/blog/tags/</link>
+    <link>https://megangrannan.github.io/blog/tags/</link>
     <description>Recent content in Tags on Megan Grannan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/megangrannan/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://megangrannan.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EDA</title>
-      <link>https://github.com/megangrannan/blog/tags/eda/</link>
+      <link>https://megangrannan.github.io/blog/tags/eda/</link>
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/megangrannan/blog/tags/eda/</guid>
+      <guid>https://megangrannan.github.io/blog/tags/eda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://github.com/megangrannan/blog/tags/python/</link>
+      <link>https://megangrannan.github.io/blog/tags/python/</link>
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/megangrannan/blog/tags/python/</guid>
+      <guid>https://megangrannan.github.io/blog/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualization</title>
-      <link>https://github.com/megangrannan/blog/tags/visualization/</link>
+      <link>https://megangrannan.github.io/blog/tags/visualization/</link>
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/megangrannan/blog/tags/visualization/</guid>
+      <guid>https://megangrannan.github.io/blog/tags/visualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Processing</title>
-      <link>https://github.com/megangrannan/blog/tags/data-processing/</link>
+      <link>https://megangrannan.github.io/blog/tags/data-processing/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/megangrannan/blog/tags/data-processing/</guid>
+      <guid>https://megangrannan.github.io/blog/tags/data-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NoSQL</title>
-      <link>https://github.com/megangrannan/blog/tags/nosql/</link>
+      <link>https://megangrannan.github.io/blog/tags/nosql/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/megangrannan/blog/tags/nosql/</guid>
+      <guid>https://megangrannan.github.io/blog/tags/nosql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis</title>
-      <link>https://github.com/megangrannan/blog/tags/analysis/</link>
+      <link>https://megangrannan.github.io/blog/tags/analysis/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/megangrannan/blog/tags/analysis/</guid>
+      <guid>https://megangrannan.github.io/blog/tags/analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>https://github.com/megangrannan/blog/tags/sql/</link>
+      <link>https://megangrannan.github.io/blog/tags/sql/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/megangrannan/blog/tags/sql/</guid>
+      <guid>https://megangrannan.github.io/blog/tags/sql/</guid>
       <description></description>
     </item>
     
